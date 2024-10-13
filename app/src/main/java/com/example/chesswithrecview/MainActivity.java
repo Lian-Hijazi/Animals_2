@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity implements StoneAdapter.Item
 
 
     private void initImgArray() {
+        //aaaaaa
         images=new int[6];
         images[0]=R.drawable.cat;
         images[1]=R.drawable.snake;
